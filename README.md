@@ -4,6 +4,11 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, Ro
 
 # Teil 1: Ehrenamtliche Projekte & Programmiercamps für Jugendliche
 
+* [CoderDojo Linz](https://linz.coderdojo.net)
+* [CoderDojo Foundation](https://coderdojo.com) (weltweite Initiative)
+* [Rust Meetup Linz](https://rust-linz.at)
+* [Coding Club Linz YouTube-Kanal](https://www.youtube.com/codingclublinz)
+
 # Teil 2: Azure DevTalks & community
 
 # Teil 3: Programme für Ihr Azure Projekt
