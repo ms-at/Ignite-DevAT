@@ -1,4 +1,4 @@
-# Links und Infomrationen zu Ignite Session CON133 - Developer Connection Austria
+# Links und Informationen zu Ignite Session CON133 - Developer Connection Austria
 aka.ms/Ignite-DevAT
 
 # Teil 1: Ehrenamtliche Projekte & Programmiercamps für Jugendliche
