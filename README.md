@@ -11,4 +11,8 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, Ro
 
 # Teil 2: Azure DevTalks & community
 
+### DevTalk zur COVID-Selbstabfrage
+* Blog-Post: [Corona-Selbstabfrage: Eine Website, bitte schnell!](https://www.softaware.at/workaware/2020/03/19/wie-wir-die-covid-selbstabfrage-entwickelt-haben.html)
+* [COVID 19-Selbstabfrage](https://covid.o.roteskreuz.at/) (Rotes Kreuz)
+
 # Teil 3: Programme für Ihr Azure Projekt
