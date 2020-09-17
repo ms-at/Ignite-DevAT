@@ -2,12 +2,12 @@
 aka.ms/Ignite-DevAT 
 
 # Sprecher*innen
-* [Bernd Hirschmann](https://www.linkedin.com/in/berhir/)
-* [Christian Schwendtner](https://www.linkedin.com/in/christian-schwendtner/)
-* [Gerwald Oberleitner](https://www.linkedin.com/in/gerwaldo/)
-* [Rainer Stropek](https://www.linkedin.com/in/rainerstropek/)
-* [Roman Schacherl](https://www.linkedin.com/in/roman-schacherl/)
-* [Tamara Tomanic](https://www.linkedin.com/in/tamara-tomanic/)
+* Bernd Hirschmann | [Guid.New GmbH](https://guidnew.com/) | [LinkedIn](https://www.linkedin.com/in/berhir/)
+* Christian Schwendtner | [Microsoft](https://microsoft.at/) | [LinkedIn](https://www.linkedin.com/in/christian-schwendtner/)
+* Gerwald Oberleitner | [Microsoft](https://microsoft.at/) | [LinkedIn](https://www.linkedin.com/in/gerwaldo/)
+* Rainer Stropek | [software architects GmbH](https://www.timecockpit.com/) | [LinkedIn](https://www.linkedin.com/in/rainerstropek/) 
+* Roman Schacherl | [softaware gmbh](https://softaware.at/) | [LinkedIn](https://www.linkedin.com/in/roman-schacherl/)
+* Tamara Tomanic | [Microsoft](https://microsoft.at/) | [LinkedIn](https://www.linkedin.com/in/tamara-tomanic/)
 
 # Teil 1: Ehrenamtliche Projekte & Programmiercamps für Jugendliche
 
