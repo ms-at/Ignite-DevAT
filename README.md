@@ -1,6 +1,13 @@
 # Links und Informationen zu Ignite Session CON133 - Developer Connection Austria
-aka.ms/Ignite-DevAT  
-Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [Roman Schacherl](https://www.linkedin.com/in/roman-schacherl/), Tamara Tomanic
+aka.ms/Ignite-DevAT 
+
+# Sprecher*innen
+* [Bernd Hirschmann](https://www.linkedin.com/in/berhir/)
+* [Christian Schwendtner](https://www.linkedin.com/in/christian-schwendtner/)
+* [Gerwald Oberleitner](https://www.linkedin.com/in/gerwaldo/)
+* [Rainer Stropek](https://www.linkedin.com/in/rainerstropek/)
+* [Roman Schacherl](https://www.linkedin.com/in/roman-schacherl/)
+* [Tamara Tomanic](https://www.linkedin.com/in/tamara-tomanic/)
 
 # Teil 1: Ehrenamtliche Projekte & Programmiercamps für Jugendliche
 
