@@ -19,9 +19,14 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [R
 * Blog-Post: https://guidnew.com/en/blog/lessons-learned-from-porting-an-angular-app-to-blazor/
 
 ### Azure DevTalks on-demand & neue live Termine
-* Link
+* Terminübersicht: https://aka.ms/azure-devtalks
 
 # Teil 3: Programme für Ihr Azure Projekt
 
+### Azure hands-on Labs
+### FastTrack for Azure
+### Azure Migrate Program
+
 # Die nächsten Veranstaltungen
 * Remote Engineering DevOps Summit, 21-22. Oktober 2020: https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
+* Azure DevTalks: https://aka.ms/azure-devtalks
