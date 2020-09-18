@@ -21,5 +21,6 @@ aka.ms/Ignite-DevAT
 ### Azure DevTalk zur COVID-Selbstabfrage
 * Blog-Post: [Corona-Selbstabfrage: Eine Website, bitte schnell!](https://www.softaware.at/workaware/2020/03/19/wie-wir-die-covid-selbstabfrage-entwickelt-haben.html)
 * [COVID 19-Selbstabfrage](https://covid.o.roteskreuz.at/) (Rotes Kreuz)
+* Blog-Post: [Lessons learned from porting an Angular App to Blazor](https://guidnew.com/en/blog/lessons-learned-from-porting-an-angular-app-to-blazor/)
 
 # Teil 3: Programme für Ihr Azure Projekt
