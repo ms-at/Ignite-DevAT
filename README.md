@@ -15,4 +15,13 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [R
 * Blog-Post: [Corona-Selbstabfrage: Eine Website, bitte schnell!](https://www.softaware.at/workaware/2020/03/19/wie-wir-die-covid-selbstabfrage-entwickelt-haben.html)
 * [COVID 19-Selbstabfrage](https://covid.o.roteskreuz.at/) (Rotes Kreuz)
 
+### Lessons learned from porting an Angular App to Blazor
+* Blog-Post: https://guidnew.com/en/blog/lessons-learned-from-porting-an-angular-app-to-blazor/
+
+### Azure DevTalks on-demand & neue live Termine
+* Link
+
 # Teil 3: Programme für Ihr Azure Projekt
+
+# Die nächsten Veranstaltungen
+* Remote Engineering DevOps Summit, 21-22. Oktober 2020: https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
