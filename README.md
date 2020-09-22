@@ -23,10 +23,12 @@ Bernd Hirschmann, Christian Schwendtner, [Gerwald Oberleitner](https://www.linke
 
 # Teil 3: Programme für Ihr Azure Projekt
 
-### Azure hands-on Labs
-* https://aka.ms/azurehandson
+### Azure hands-on Labs (kostenlos, derzeit mit Online-Trainer)
+* Breites Angebot an Hands-on Trainings für Azure (Infrastruktur, Datenservices, Entwickler): https://aka.ms/azurehandson
+* Kubernetes Azure Hands-on Training - Cloud Native in a Day: https://aka.ms/azurehandson
 ### FastTrack for Azure
-* https://azure.microsoft.com/programs/azure-fasttrack/
+* Kunden können selbst Ihr Projekt einreichen: https://azure.microsoft.com/programs/azure-fasttrack/
+* Microsoft Partner können Ihre Kunden nominieren (und gemeinsam im Projekt arbeiten): https://azure.microsoft.com/programs/azure-fasttrack/partners/
 ### Azure Migrate Program
 * https://azure.com/AMP
 
