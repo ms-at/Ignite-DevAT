@@ -1,6 +1,6 @@
 # Links und Informationen zu Ignite Session CON133 - Developer Connection Austria
 aka.ms/Ignite-DevAT  
-Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [Roman Schacherl](https://www.linkedin.com/in/roman-schacherl/), Tamara Tomanic
+Bernd Hirschmann, Christian Schwendtner, [Gerwald Oberleitner](https://www.linkedin.com/in/gerwaldo/), Rainer Stropek, [Roman Schacherl](https://www.linkedin.com/in/roman-schacherl/), Tamara Tomanic
 
 # Teil 1: Ehrenamtliche Projekte & Programmiercamps für Jugendliche
 
@@ -31,5 +31,5 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [R
 * https://azure.com/AMP
 
 # Die nächsten Veranstaltungen
-* Remote Engineering DevOps Summit, 21-22. Oktober 2020: https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
+* Remote Engineering DevOps Summit, 21-22. Oktober 2020 (jeweils 2 Stunden pro Tag): https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
 * Azure DevTalks: https://aka.ms/azure-devtalks
