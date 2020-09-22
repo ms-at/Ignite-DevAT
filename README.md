@@ -24,8 +24,11 @@ Bernd Hirschmann, Christian Schwendtner, Gerwald Oberleitner, Rainer Stropek, [R
 # Teil 3: Programme für Ihr Azure Projekt
 
 ### Azure hands-on Labs
+* https://aka.ms/azurehandson
 ### FastTrack for Azure
+* https://azure.microsoft.com/programs/azure-fasttrack/
 ### Azure Migrate Program
+* https://azure.com/AMP
 
 # Die nächsten Veranstaltungen
 * Remote Engineering DevOps Summit, 21-22. Oktober 2020: https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
