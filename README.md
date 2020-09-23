@@ -42,3 +42,6 @@ aka.ms/Ignite-DevAT
 # Die nächsten Veranstaltungen
 * Remote Engineering DevOps Summit, 21-22. Oktober 2020 (jeweils 2 Stunden pro Tag): https://info.microsoft.com/ww-landing-remote-engineering-devops-summit-splash.html
 * Azure DevTalks: https://aka.ms/azure-devtalks
+
+# Azure Heroes
+Als Teilnehmer*innen der Developer Connection Austria Session könnt ihr euch am Tag der Session einen digitalen Azure Heroes Learner Badge holen (Anzahl begrenzt). Klicke einfach diesen Link https://beam.enjin.io/claim/9b73e7a988e196a697e063ff25bed455 und folge den Anweisungen um deinen Learner Badge zu erhalten. Erfahre mehr über Azure Heroes + nominiere dich und andere unter https://aka.ms/azure.heroes
